@@ -1,5 +1,5 @@
 baseURL = "https://ultimatetravelsite.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -25,41 +25,6 @@ name = "about"
 pre = "#"
 url = "about"
 weight = 1
-[[menu.main]]
-name = "services"
-pre = "#"
-url = "services"
-weight = 2
-[[menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 7
-[[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
